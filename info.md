@@ -1,7 +1,7 @@
 ### cdxgen Information
-* [Incubator Project](#)
+* [Production Project](#)
 * [Type of Project](#)
-* [Version 0.0.0](#)
+* [Version v11.8.0](#)
 * [Builder](#)
 * [Breaker](#)
 
