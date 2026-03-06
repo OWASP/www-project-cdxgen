@@ -594,18 +594,6 @@ pnpm install --prefer-offline
 pnpm dlx cdxgen --help
 ```
 
-## Sponsors
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="./docs/_media/GithubLogo-LightBg.png" width="180" height="180">
-  <img src="./docs/_media/MicrosoftLogo.png" width="180" height="180">
-</div>
-
-Some features are funded through [NGI Zero Core](https://nlnet.nl/core), a fund established by [NLnet](https://nlnet.nl) with financial support from the European Commission's [Next Generation Internet](https://ngi.eu) program. Learn more at the [NLnet project page](https://nlnet.nl/project/OWASP-dep-scan).
-
-[<img src="https://nlnet.nl/logo/banner.png" alt="NLnet foundation logo" width="20%" />](https://nlnet.nl)
-[<img src="https://nlnet.nl/image/logos/NGI0_tag.svg" alt="NGI Zero Logo" width="20%" />](https://nlnet.nl/core)
-
 <!-- LINK LABELS -->
 <!-- Badges -->
 
