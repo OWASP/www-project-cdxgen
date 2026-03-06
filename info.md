@@ -1,8 +1,8 @@
 ### cdxgen Information
-* [Production Project](Production)
-* [Type of Project](Code)
-* [Version v12.1.1](v12.1.1)
-* [Builder](Builder and Defender)
+* [Production Project](#)
+* [Type of Project](#)
+* [Version v12.1.1](#)
+* [Builder and Defender](#)
 
 ### Downloads or Social Links
 * [Download](https://github.com/cdxgen/cdxgen/releases)

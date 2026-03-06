@@ -1,1 +1,1 @@
-# TODO: Please update this file with the license of your project
+Apache-2.0
