@@ -15,7 +15,6 @@ pitch: Creates CycloneDX Software Bill of Materials (SBOM) from source or contai
 [![NPM Downloads][badge-npm-downloads]][npmjs-cdxgen]
 [![GitHub License][badge-github-license]][github-license]
 [![GitHub Contributors][badge-github-contributors]][github-contributors]
-[![SWH][badge-swh]][swh-cdxgen]
 
 # CycloneDX Generator (cdxgen)
 
