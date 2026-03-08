@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP cdxgen
 tags: cdxgen,sbom,cyclonedx
-level: 2
+level: 3.5
 type: code
 pitch: Creates CycloneDX Software Bill of Materials (SBOM) from source or container image.
 
@@ -15,6 +15,7 @@ pitch: Creates CycloneDX Software Bill of Materials (SBOM) from source or contai
 [![NPM Downloads][badge-npm-downloads]][npmjs-cdxgen]
 [![GitHub License][badge-github-license]][github-license]
 [![GitHub Contributors][badge-github-contributors]][github-contributors]
+[![OWASP Production](https://img.shields.io/badge/owasp-production%20project-f7b73c.svg)](https://owasp.org/projects/)
 
 # CycloneDX Generator (cdxgen)
 
